@@ -7,10 +7,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <h2>📜Courses</h2> 
 
-<h3>Cisco:</h3> 
 <a href="https://skillsforall.com/" target="_blank">Cisco</a>
-
-
 
 * Introduction to Cybersecurity 
 * Cybersecurity Essentials 
@@ -23,8 +20,22 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 * Python Essential 1
 * Python Essential 2
 
+<a href="https://www.rangeforce.com/" target="_blank">RangeForce</a>
+
+* Community Edition All-Star							 
+* SOC Challenge						 
+* SOC Analyst 1
+
+<a href="https://certiprof.com/" target="_blank">CertiProf</a>
+
+* CSFPC - Cyber Security Foundation Professional Certificate
+
+<a href="https://skillsbuild.org/" target="_blank">IBM</a>
+
+* Cybersecurity Fundamentals
 
 <h4>🛡Digital Badges: (https://www.credly.com/users/raphael-lanz) 
+  
 
 
 
