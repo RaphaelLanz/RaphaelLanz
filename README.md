@@ -3,7 +3,10 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ <!--
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+-->
+
 
 <h2>📜Qualifications:</h2> 
 
