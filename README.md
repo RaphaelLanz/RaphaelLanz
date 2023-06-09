@@ -1,13 +1,31 @@
 <h1>👋 Hi, I'm Raphael!</h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
+
+<h2>💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜Courses</h2> 
 
-### Digital Badges:(https://www.credly.com/users/raphael-lanz)
+<h3>Cisco:</h3> 
+<a href="https://skillsforall.com/" target="_blank">Cisco</a>
 
-### Cisco:
+
+
+* Introduction to Cybersecurity 
+* Cybersecurity Essentials 
+* Introduction to Packet Tracer 
+* Networking Basics 
+* Networking Devices and Initial Configuration 
+* Endpoint Security 
+* Network Defense 
+* Cyber Threat Management
+* Python Essential 1
+* Python Essential 2
+
+
+<h4>🛡Digital Badges: (https://www.credly.com/users/raphael-lanz) 
+
 
 
 <h2> 🤳 Connect with me:</h2>
