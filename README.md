@@ -34,9 +34,26 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 * Cybersecurity Fundamentals
 
-<h4>🛡Digital Badges: (https://www.credly.com/users/raphael-lanz) 
-  
+<a href="https://acloudguru.com/" target="_blank">A cloud Guru</a>
 
+* LPI Linux Essentials Certification
+* Google Certified Associate Cloud Engineer
+* Kubernetes Deep Dive
+
+<a href="https://www.fortinet.com/" target="_blank">Fortinet</a>
+
+* NSE 1 Network Security Associate
+* NSE 2 Network Security Associate
+
+
+
+<h2>🛡Here is a list of my Digital Badges:</h2> 
+👉🏻 Cisco +  https://shorturl.at/fhS56
+
+👉🏻 Fortinet: https://tinyurl.com/5d9fcvnb | https://tinyurl.com/bd85wp36
+
+👉🏻 A Cloud Guru:https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c |
+  
 
 
 <h2> 🤳 Connect with me:</h2>
