@@ -52,7 +52,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 👉🏻 Fortinet: https://tinyurl.com/5d9fcvnb | https://tinyurl.com/bd85wp36
 
-👉🏻 A Cloud Guru:https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c |
+👉🏻 A Cloud Guru: https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c 
   
 
 
