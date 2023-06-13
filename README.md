@@ -1,4 +1,6 @@
-<h1>👋 Hi, I'm Raphael!</h1>
+[![MasterHead]](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+<h1 align="center">👋 Hi, I'm Raphael!</h1>
 I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
 
 <h2>💻 Cybersecurity Projects:</h2>
