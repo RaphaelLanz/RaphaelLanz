@@ -1,4 +1,6 @@
-[![MasterHead]](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/0Q8y4M4D/rsz-31green-futuristic-technology-video.jpg" alt="my banner"></a>
+</p>
 
 <h1 align="center">👋 Hi, I'm Raphael!</h1>
 I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
