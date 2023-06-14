@@ -93,14 +93,23 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
-                                                                                                                          
+
+<h2>🏆 Github Profile Trophy:</h2>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphaellanz" alt="raphaellanz" /></a> </p>
+
 <h2>📫 Connect with me:</h2>
                                                                                                                      
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+(https://linkedin.com/in/raphael~lanz)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/raphallanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raphallanz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raphael~lanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael~lanz" height="30" width="40" /></a>
+</p>
 
 
 
@@ -116,4 +125,21 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:badges-->
 
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
+<!--END_SECTION:badges-->
