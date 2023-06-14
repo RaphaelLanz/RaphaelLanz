@@ -2,6 +2,8 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/0Q8y4M4D/rsz-31green-futuristic-technology-video.jpg" alt="my banner"></a>
 </p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/RaphalLanz?logo=Twitter&style=flat-square) ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/RaphaelLanz?logo=github&style=flat-square)
+
 <h1 align="center">👋 Hi, I'm Raphael!</h1>
 I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
 
@@ -69,11 +71,10 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
                                                                                                                           
 <h2>📫 Connect with me:</h2>
                                                                                                                      
-[<img align="left" alt="RaphalLanz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RaphaelLanz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-[twitter]: https://twitter.com/RaphalLanz
-[linkedin]: https://linkedin.com/in/raphael~lanz/
 
 
 
@@ -88,5 +89,4 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 - ⚡ Fun fact: ...
 -->
 
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
