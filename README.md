@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Raphael!</h1>
 I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
 
-<h2>💻 Cybersecurity Projects:</h2>
+<h2>I’m currently working on 💻 Cybersecurity Projects:</h2>
 
  <!--
  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -67,7 +67,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RaphaelLanz)](https://github.com/yushi1007)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
                                                                                                                           
-<h2> 🤳 Connect with me:</h2>
+<h2>📫 Connect with me:</h2>
                                                                                                                      
 [<img align="left" alt="RaphalLanz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RaphaelLanz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -88,4 +88,5 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 - ⚡ Fun fact: ...
 -->
 
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
