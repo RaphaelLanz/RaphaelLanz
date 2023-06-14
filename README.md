@@ -2,7 +2,14 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/0Q8y4M4D/rsz-31green-futuristic-technology-video.jpg" alt="my banner"></a>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/RaphalLanz?logo=Twitter&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/RaphaelLanz/raphaellanz.github.io?logo=github&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/RaphaelLanz/raphaellanz.github.io?logo=GitHub&style=flat-square) ![Website](https://img.shields.io/website?down_message=offline&label=Website&style=flat-square&up_message=under%20construction&url=https%3A%2F%2Fcyberblographal.com%2F)
+<div align="center">
+  
+![Twitter Follow](https://img.shields.io/twitter/follow/RaphalLanz?logo=Twitter&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/RaphaelLanz/raphaellanz.github.io?logo=github&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/RaphaelLanz/raphaellanz.github.io?logo=GitHub&style=flat-square) 
+![Website](https://img.shields.io/website?down_message=offline&label=Website&style=flat-square&up_message=under%20construction&url=https%3A%2F%2Fcyberblographal.com%2F)
+  
+</div>
 
 <h1 align="center">👋 Hi, I'm Raphael!</h1>
 I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
