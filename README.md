@@ -103,9 +103,13 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael~lanz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RaphalLanz) 
 
 
+                                                                                                                  
 
-
-
+<p float="left">
+<img src="https://i.postimg.cc/Pxd2f80z/f5a9c891-2de8-4708-9248-aef7f69f2d55.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
+<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="105" height="105">
+</p>
 
 
 <!--
@@ -118,4 +122,6 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
