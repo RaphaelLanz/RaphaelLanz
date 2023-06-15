@@ -106,10 +106,21 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
                                                                                                                   
 
 <p float="left">
-<img src="https://i.postimg.cc/Pxd2f80z/f5a9c891-2de8-4708-9248-aef7f69f2d55.png" width="100" height="100"> 
 <img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
-<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="105" height="105">
+<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src=https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/fLxj7XGq/python1-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/sXmYMydv/python2-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100"> 
+<img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  100" height="100"> 
+<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100"> 
+<img src="https://i.postimg.cc/Fs06hJ8s/Network-Defense-Photo-Room-png-Photo-Room.png"  100" height="100">
 </p>
+
+<p floar="left">
+<img src"https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" 100" height="100">
+</p>
+
 
 
 <!--
