@@ -66,11 +66,11 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <h2>🛡Here is a list of my Digital Badges:</h2> 
 
-👉🏻 Cisco +  https://shorturl.at/fhS56
+👉🏻 Cisco | IBM | RangeForce | CertiProf |  https://tinyurl.com/2xm84mej
 
-👉🏻 Fortinet: https://tinyurl.com/5d9fcvnb | https://tinyurl.com/bd85wp36
+👉🏻 Fortinet | https://tinyurl.com/5d9fcvnb | https://tinyurl.com/bd85wp36
 
-👉🏻 A Cloud Guru: https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c 
+👉🏻 A Cloud Guru | https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c 
   
 
 <h2>💻 GitHub Stats:</h2>
