@@ -153,8 +153,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 </p>
 
 
-<a href="https://www.credly.com/users/raphael-lanz"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" target="_blank">
-<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<a href="https://www.credly.com/users/raphael-lanz"><img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" target="_blank"> width="100" height="100"> 
 </a>
 
 <a href="https://cdn.pixabay.com/photo/2022/07/12/08/15/grass-7316770_960_720.jpg" target="_blank">
