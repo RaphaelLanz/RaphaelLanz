@@ -96,7 +96,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <h2>🏆 Github Profile Trophy:</h2>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphaellanz" alt="raphaellanz" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphaellanz" alt="raphaellanz" /></a> </p>
 
 <h2>📫 Connect with me:</h2>
                                                                                                                      
@@ -104,25 +104,30 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 
                                                                                                                   
-
-<p float="center">
-<img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
-<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
-<img src=https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<p align="left">
+<img src="https://i.postimg.cc/wBr2rjGD/introduction-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/WpqNCYhZ/Cybersecurity-Essentials-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/cCfrSF4d/packettracer-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/hPwjZJ8S/Introduction-to-Io-T-Photo-Room-png-Photo-Room.png"width="100" height="100">
 <img src="https://i.postimg.cc/fLxj7XGq/python1-Photo-Room-png-Photo-Room.png" width="100" height="100">
 <img src="https://i.postimg.cc/sXmYMydv/python2-Photo-Room-png-Photo-Room.png" width="100" height="100">
-<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100"> 
+<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100">
 <img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  100" height="100"> 
-<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100"> 
-<img src="https://i.postimg.cc/Fs06hJ8s/Network-Defense-Photo-Room-png-Photo-Room.png"  100" height="100">
+<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100">   
 </p>
 
+<p float="center">
+<img src="https://i.postimg.cc/nVGVMM6T/Network-Defense.png"  100" height="100">   
+<img src="https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" height="100">  
+<img src="https://i.postimg.cc/7YkrNdLY/Cyber-Security-Foundation-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/wxfQwV7n/lifelong-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/W4Wp5kpn/ibm-2.png" width="100" height="100">
+<img src="https://i.postimg.cc/rsdD19Sx/cloud-Photo-Room-png-Photo-Room.png" width="110" height="110">  
+<img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
+<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+</p>
 
-<div align="center">
-  
-  <img src"https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" 100" height="100">
-
-</div>
 
 
 
