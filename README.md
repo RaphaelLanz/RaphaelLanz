@@ -71,7 +71,31 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 👉🏻 Fortinet | https://tinyurl.com/5d9fcvnb | https://tinyurl.com/bd85wp36
 
 👉🏻 A Cloud Guru | https://tinyurl.com/2p88h9pw | https://tinyurl.com/yc593a95 | https://tinyurl.com/2a4b827c 
-  
+
+
+  <p align="left">
+<img src="https://i.postimg.cc/wBr2rjGD/introduction-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/WpqNCYhZ/Cybersecurity-Essentials-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/cCfrSF4d/packettracer-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/hPwjZJ8S/Introduction-to-Io-T-Photo-Room-png-Photo-Room.png"width="100" height="100">
+<img src="https://i.postimg.cc/fLxj7XGq/python1-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/sXmYMydv/python2-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100">
+<img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  100" height="100"> 
+<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100">   
+</p>
+
+<p float="center">
+<img src="https://i.postimg.cc/nVGVMM6T/Network-Defense.png"  100" height="100">   
+<img src="https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" height="100">  
+<img src="https://i.postimg.cc/7YkrNdLY/Cyber-Security-Foundation-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/wxfQwV7n/lifelong-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/W4Wp5kpn/ibm-2.png" width="100" height="100">
+<img src="https://i.postimg.cc/rsdD19Sx/cloud-Photo-Room-png-Photo-Room.png" width="110" height="110">  
+<img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
+<img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+</p>
 
 <h2>💻 GitHub Stats:</h2>
 
@@ -125,10 +149,10 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <img src="https://i.postimg.cc/rsdD19Sx/cloud-Photo-Room-png-Photo-Room.png" width="110" height="110">  
 <img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
 <img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
-<img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<a target="_blank" href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
 </p>
 
-
+<a target="_blank" href="https://en.wikipedia.org/wiki/Cat"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field." /></a>
 
 
 
