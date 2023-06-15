@@ -152,10 +152,11 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <a target="_blank" href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
 </p>
 
+<a href="https://www.credly.com/users/raphael-lanz" target="_blank">
+    <img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100" />
+</a>
 
 
-
-<a target="_blank" href="https://en.wikipedia.org/wiki/Cat"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field." /></a>
 
 https://www.credly.com/users/raphael-lanz
 
