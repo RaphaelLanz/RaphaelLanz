@@ -84,10 +84,12 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100">
 <img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  100" height="100"> 
 <img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100">   
+  </a>
 </p>
-</a>
+
   
 <p float="center">
+  <a href="https://www.credly.com/users/raphael-lanz" target="_blank">
 <img src="https://i.postimg.cc/nVGVMM6T/Network-Defense.png"  100" height="100">   
 <img src="https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" height="100">  
 <img src="https://i.postimg.cc/7YkrNdLY/Cyber-Security-Foundation-Photo-Room-png-Photo-Room.png" width="100" height="100">
@@ -97,6 +99,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <img src="https://i.postimg.cc/6q3ffxX4/SOC1-modified.png" width="100" height="100">
 <img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
 <img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
+  </a>
 </p>
 
 <h2>💻 GitHub Stats:</h2>
@@ -130,13 +133,6 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 
                                                                                                                   
-
-
-<a href="https://www.credly.com/users/raphael-lanz" target="_blank">
-    <img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100" />
-</a>
-
-
 
 
 <!--
