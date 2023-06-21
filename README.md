@@ -24,7 +24,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <h2>📜Qualifications:</h2> 
 
-<a href="https://skillsforall.com/" target="_blank">Cisco</a>
+<a href="https://skillsforall.com/" target="_blank">🧩 Cisco</a>
 
 * Introduction to Cybersecurity 
 * Cybersecurity Essentials 
