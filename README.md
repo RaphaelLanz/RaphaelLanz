@@ -90,7 +90,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
   
 <p float="center">
   <a href="https://www.credly.com/users/raphael-lanz" target="_blank">
-<img src="https://i.postimg.cc/Fs06hJ8s/Network-Defense-Photo-Room-png-Photo-Room.png" width="100" height="100">   
+  
 <img src="https://i.postimg.cc/SQVttpBD/Cyber-Threat-Management-Photo-Room-png-Photo-Room.png" width="100" height="100">  
 <img src="https://i.postimg.cc/7YkrNdLY/Cyber-Security-Foundation-Photo-Room-png-Photo-Room.png" width="100" height="100">
 <img src="https://i.postimg.cc/wxfQwV7n/lifelong-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
