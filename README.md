@@ -81,9 +81,9 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <img src="https://i.postimg.cc/hPwjZJ8S/Introduction-to-Io-T-Photo-Room-png-Photo-Room.png"width="100" height="100">
 <img src="https://i.postimg.cc/fLxj7XGq/python1-Photo-Room-png-Photo-Room.png" width="100" height="100">
 <img src="https://i.postimg.cc/sXmYMydv/python2-Photo-Room-png-Photo-Room.png" width="100" height="100">
-<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" 100" height="100">
-<img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  100" height="100"> 
-<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  100" height="100">   
+<img src="https://i.postimg.cc/0NJYGQr4/network-Basics-Photo-Room-png-Photo-Room.png" width="100" height="100">
+<img src="https://i.postimg.cc/QNnZKsYR/Devices-Photo-Room-png-Photo-Room.png"  width="100" height="100"> 
+<img src="https://i.postimg.cc/66dcvhQn/Endpoint-Security-Photo-Room-png-Photo-Room.png"  width="100" height="100">   
   </a>
 </p>
 
