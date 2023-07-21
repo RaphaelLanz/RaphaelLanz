@@ -102,7 +102,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <img src="https://i.postimg.cc/rsdD19Sx/cloud-Photo-Room-png-Photo-Room.png" width="110" height="110">
 <img src="https://i.postimg.cc/rw4JXxVp/aws-removebg-preview.png" width="110" height="110">  
 <img src="https://i.postimg.cc/jqvmsZC2/awsfile-removebg-preview.png" width="110" height="110">
-[![awsfile-removebg-preview.png](https://i.postimg.cc/jqvmsZC2/awsfile-removebg-preview.png)]
+
    </a>
 </p>
 
