@@ -1,5 +1,5 @@
 <p align="center">
-  <a ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?RaphaelLanz=vn7n24fzkq&theme=default)"></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 </p>
 
 <div align="center">
