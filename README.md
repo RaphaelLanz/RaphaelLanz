@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Raphael!</h1>
-I am currently learning cybersecurity and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
+I am currently learning cybersecurity, including cloud computing, and I am enthusiastic about expanding my knowledge and skills in this field. I am dedicated to continually improving and staying updated with the latest advancements.
 
 <h2>I’m currently working on 💻 Cybersecurity Projects:</h2>
 
