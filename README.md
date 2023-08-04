@@ -113,7 +113,8 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelLanz&theme=algolia">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelLanz&theme=algolia">
-
+<img src"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaphaelLanz&theme=algolia">
+<img src"http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaphaelLanz&theme=algolia&utcOffset=8">
 </p>
 
 
