@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia" width="200" height="200">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia" width="500" height="500">
 </p>
 
 
