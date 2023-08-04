@@ -111,8 +111,10 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia">
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelLanz&theme=algolia)
+
 </p>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RaphaelLanz)](https://github.com/yushi1007)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+
 
 <h2>🛠️ Skills:</h2>
 
