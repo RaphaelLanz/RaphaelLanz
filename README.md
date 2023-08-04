@@ -111,7 +111,7 @@ I am currently learning cybersecurity and I am enthusiastic about expanding my k
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelLanz&theme=algolia2>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelLanz&theme=algolia>
 
 </p>
 
