@@ -1,6 +1,5 @@
-<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia)
-</p>
+
 
 
 <div align="center">
