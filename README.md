@@ -1,6 +1,5 @@
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia)
-</p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLanz&theme=algolia" width="100" height="100">
 
 
 <div align="center">
