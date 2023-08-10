@@ -99,7 +99,8 @@ I am currently learning cybersecurity, including cloud computing, and I am enthu
 <img src="https://i.postimg.cc/ZqV2GKvs/SOCchallenge-Photo-Room-png-Photo-Room.png" width="100" height="100"> 
 <img src="https://i.postimg.cc/jjTGvnBp/allstart-Photo-Room-png-Photo-Room.png" width="100" height="100">
 <img src="https://i.postimg.cc/rsdD19Sx/cloud-Photo-Room-png-Photo-Room.png" width="110" height="110">
-<img src="https://i.postimg.cc/rw4JXxVp/aws-removebg-preview.png" width="100" height="100"> 
+<img src="https://i.postimg.cc/rw4JXxVp/aws-removebg-preview.png" width="100" height="100">
+<img src:"https://i.postimg.cc/Cxn7bSjv/serveless-removebg-preview.png" width="100" height="100">
 <img src="https://i.postimg.cc/jqvmsZC2/awsfile-removebg-preview.png" width="100" height="100">
 
    </a>
