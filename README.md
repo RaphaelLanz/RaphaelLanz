@@ -102,6 +102,7 @@ I am currently learning cybersecurity, including cloud computing, and I am enthu
 <img src="https://i.postimg.cc/rw4JXxVp/aws-removebg-preview.png" width="100" height="100">
 <img src:="https://i.postimg.cc/Cxn7bSjv/serveless-removebg-preview.png" width="100" height="100">
 <img src="https://i.postimg.cc/jqvmsZC2/awsfile-removebg-preview.png" width="100" height="100">
+<img src:="https://i.postimg.cc/Cxn7bSjv/serveless-removebg-preview.png" width="100" height="100">
 
    </a>
 </p>
